@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+## This is my github profile. i apologise for this mess!
 
 <!--
 **fragilepotato/fragilepotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
